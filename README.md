@@ -1,2 +1,4 @@
-# Demo-code
-This is my first git hub project
+my_agent/
+    agent.go    # main agent code
+    .env        # API keys or project IDs
+    
